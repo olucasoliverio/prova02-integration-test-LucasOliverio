@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1791239291600" clover="3.2.0">
+  <project timestamp="1791239291600" name="All files">
+    <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2" elements="8" coveredelements="6" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
+    <file name="simple-reporter.ts" path="/Users/lucasoliverio/Faculdade/Testes/prova02-integration-test-LucasOliverio/prova02-integration-test-LucasOliverio/simple-reporter.ts">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+      <line num="2" count="9" type="stmt"/>
+      <line num="5" count="9" type="stmt"/>
+      <line num="9" count="68" type="stmt"/>
+      <line num="10" count="68" type="stmt"/>
+    </file>
+  </project>
+</coverage>
